@@ -119,7 +119,7 @@ openpyxl
 
 ## 👨‍💻 Author
 
-**Mallareddygari Gayathri**
+**Chowdri Furkhan**
 
 Aspiring AI/ML Engineer & Data Science Enthusiast
 
