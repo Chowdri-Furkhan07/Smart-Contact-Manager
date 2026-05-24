@@ -55,7 +55,7 @@ phone-directory-app/
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/Chowdri-Furkhan07/Smart-Contact-Manager
+git clone https://github.com/Chowdri-Furkhan07/Smart-Contact-Manager.git
 cd contact-management-system
 ```
 
