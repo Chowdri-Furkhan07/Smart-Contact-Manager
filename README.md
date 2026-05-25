@@ -46,7 +46,7 @@ phone-directory-app/
 ## 🌐 Live Demo
 
 🚀 Try the application here:  
-[Phone Directory Manager](https://contact-management-system-sdjvkjbrvkbeveug7zd4cl.streamlit.app/)
+[Phone Directory Manager]()
 
 ---
 
