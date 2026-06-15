@@ -46,7 +46,7 @@ phone-directory-app/
 ## 🌐 Live Demo
 
 🚀 Try the application here:  
-[Phone Directory Manager]()
+[Phone Directory Manager](https://smart-contact-manager-xgt2pcwsuale3nq5qtcnbf.streamlit.app/)
 
 ---
 
